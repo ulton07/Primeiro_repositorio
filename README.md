@@ -15,7 +15,7 @@ Se você gosta de código limpo e setups insanos, vai curtir!
 ## 🛠️ Tecnologias  
 - Python 🐍  
 - JavaScript ⚡  
-- [Adicione aqui outras linguagens e frameworks]  
+  
 
 ---
 
