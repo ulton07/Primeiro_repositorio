@@ -83,3 +83,8 @@ Nosso mascote traz **personalidade e diversão**, tornando o README mais envolve
 ## ✨ Frase Motivacional
 
 > "💻 Código é poesia, e cada commit conta uma história. 🐾"
+
+---
+
+## 💡 Frase do dia
+> "Codar é como magia, mas com bugs."
