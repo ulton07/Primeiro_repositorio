@@ -88,3 +88,4 @@ Nosso mascote traz **personalidade e diversão**, tornando o README mais envolve
 
 ## 💡 Frase do dia
 > "Codar é como magia, mas com bugs."
+![Banner do Projeto](caminho/para/o/banner.png)
