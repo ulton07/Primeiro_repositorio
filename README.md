@@ -2,8 +2,6 @@
 meu primeiro repositorio
 # 👨‍💻 Meu Projeto Incrível  
 
-![Programador no Flow](./A_digital_photograph_captures_a_programmer's_hands.png)
-
 💻 **Codando na vibe certa!** Café do lado, código na tela e aquele toque de RGB que todo dev precisa.  
 
 ---
